@@ -1,11 +1,6 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'The Art of Raving'
 date: '2020-01-01'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
-
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
-
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+Contemporary art, like most creative industries, is sadly governed by money. When something like a subculture is absorbed by the commercial side of art and somehow tamed or cut up into easily digested pieces, made palatable for a particular audience, there is a something disheartening about it. Should **movements** like rave culture be kept solely for those who dared to experience them and a million miles away from **contemporary art**, or is documenting them in this way as important as documenting any part of history? Whatever the answer may be, rave culture’s impact as one of the most important and original subcultures of our time is undeniable and its influence doesn’t show any signs of diminishing. “It was a futuristic movement – a movement of  **futuristic music**, of doing new things, new drugs – a new kind of love,” Van Linge tells me. “I’m not sure whether the same group of people could go through that again – maybe if you talk about different cultures – maybe from a typical Eurocentric perspective, but maybe not. The world is a lot bigger.”
